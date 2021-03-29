@@ -1,7 +1,7 @@
 ### Hi there, my name is Jacob
 
 ## Projects
-* [No H2O required](https://github.com/Zark247/csce546_finalproject) - Alcoholic beverage tracking app (Ionic)
+* [No H2O required](https://github.com/Zark247/NoH20Required) - Alcoholic beverage tracking app (Ionic)
 * [Cube Sprint](https://zark247.github.io/Cube-Sprint/) - Sprint/runner game (Unity)
 * [Simple Maze](https://zark247.github.io/Simple-Maze/) - Maze game (Unity)
 * [Capstone Project Beta](https://zark247.github.io/AstrovibeAttackpodBeta/) - Tower defense game made for my capstone group project (Unity)
