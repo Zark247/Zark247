@@ -5,8 +5,8 @@
 * [Cube Sprint](https://zark247.github.io/Cube-Sprint/) - Sprint/runner game (Unity)
 * [Simple Maze](https://zark247.github.io/Simple-Maze/) - Maze game (Unity)
 * [Bear Collector](https://zark247.itch.io/xplorer) - Collectables/walking game (Unity)
-* [Capstone Project Beta](https://zark247.github.io/AstrovibeAttackpodBeta/) - Tower defense game made for my capstone group project (Unity)
-* [Capstone Project Release Candidate](https://zark247.github.io/AstrovibeAttackpodReleaseCandidate/) - Tower defense game made for my capstone group project (Unity)
+* [Fred Rescue](https://zark247.itch.io/fred-rescue) - Rescue game (Unity)
+* [Capstone Project](https://zark247.itch.io/astrovibe-attackpod) - Tower defense game (Unity)
 
 ## Languages
 [![](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=for-the-badge)](https://dotnet.microsoft.com/learn/csharp) 
