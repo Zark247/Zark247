@@ -1,4 +1,4 @@
-### Hi there, my name is Jacob
+#### I've recently graduated from the University of South Carolina. I have an interest in game development as well as data visualization.
 
 ## Projects
 * [No H2O required](https://github.com/Zark247/NoH20Required) - Alcoholic beverage tracking app (Ionic)
