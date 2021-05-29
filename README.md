@@ -23,7 +23,7 @@
 ## Stats
 ![Git Statistics](https://github-readme-stats.vercel.app/api?username=Zark247&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-[![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Zark247&hide_border=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&hide=ASP.NET)
+[![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Zark247&hide_border=true&layout=compact&theme=tokyonight&hide=ASP.NET,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Zark247/Zark247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
